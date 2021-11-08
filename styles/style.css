@@ -1,0 +1,8 @@
+.background-container{
+    height: 100vh;
+    background-color:#AB3428;
+}
+
+.projects-wrapper--flex > .projects_card--flex{
+    margin: 1rem;
+}
