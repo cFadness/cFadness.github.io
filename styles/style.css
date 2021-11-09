@@ -94,3 +94,15 @@ h2 {
     margin-left: 15%;
 }
 
+.about-p{
+    display: block;
+    width: 50%;
+    text-align: left;
+    margin-top: 3%;
+    border: 1px solid black;
+    background-color:#2F4858;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
